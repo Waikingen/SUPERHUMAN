@@ -1,4 +1,4 @@
-// firebase.js
+// NEW firebase.js
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-app.js";
 import { getDatabase, ref, set, get, update } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js";
 
