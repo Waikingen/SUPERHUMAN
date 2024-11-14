@@ -1,4 +1,4 @@
-git cpush// Wiking Custom Grid Script
+// Wiking Custom Grid Script
 
 $(".draggable_section").each(function (index) {
     let sectionEl = $(this);
